@@ -1,6 +1,5 @@
 package br.gov.sp.cps.primeiro
 
-import android.content.ContentValues.TAG
 import android.os.Bundle
 import android.util.Log
 import android.widget.Button
